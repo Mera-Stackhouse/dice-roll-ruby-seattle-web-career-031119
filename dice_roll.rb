@@ -9,7 +9,7 @@ def roll
 end
 
 
-## bonus
+## Bonus
 #def roll
 #  array = [ 1, 2, 3, 4, 5, 6]
 #  index = rand(0..5)
